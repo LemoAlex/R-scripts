@@ -16,7 +16,6 @@ library(bio3d)
 library(pheatmap)
 library(RColorBrewer)
 library(dendsort)
-read.a
 
 dna_align<- read.fasta("aux1_muscle.aln")   ###import DNA alignment in fasta sequence
 
